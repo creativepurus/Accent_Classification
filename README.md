@@ -32,12 +32,6 @@ Below are various graphs and charts generated to evaluate and visualize the perf
 
 ---
 
-### 🔹 Class-wise Bar Graph
-![Bar Graph](assets/Bar_Graph.png)
-*Bar plot comparing true vs predicted class counts.*
-
----
-
 ### 🔹 Confusion Matrix
 ![Confusion Matrix](assets/Confusion_Matrix.png)
 *Matrix showing the number of correct and incorrect predictions per class.*
