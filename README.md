@@ -14,6 +14,48 @@ A Deep Learning project that uses HuggingFace's Wav2Vec2 model to classify Engli
 
 ---
 
+## 📊 Model Performance Visualizations
+
+Below are various graphs and charts generated to evaluate and visualize the performance of the Wav2Vec2-based Accent Classifier:
+
+---
+
+### 🔹 Horizontal Bar Chart
+![Horizontal Bar Chart](assets/horizontal_bar_chart.png)
+*Class-wise prediction confidence of the model.*
+
+---
+
+### 🔹 Training Loss Curve
+![Training Loss Curve](assets/Training_Loss_curve.png)
+*Loss reduction over training epochs showing model learning progress.*
+
+---
+
+### 🔹 Class-wise Bar Graph
+![Bar Graph](assets/Bar_Graph.png)
+*Bar plot comparing true vs predicted class counts.*
+
+---
+
+### 🔹 Confusion Matrix
+![Confusion Matrix](assets/Confusion_Matrix.png)
+*Matrix showing the number of correct and incorrect predictions per class.*
+
+---
+
+### 🔹 ROC Curve
+![ROC Curve](assets/ROC_curve.png)  
+*Receiver Operating Characteristic curve showing the model's performance across thresholds.*
+
+---
+
+### 🔹 Spider Chart (Radar Plot)
+![Spider Chart](assets/Spider_Chart.png)
+*Multi-metric visualization comparing performance across various evaluation criteria.*
+
+---
+
 ## 🚀 Features
 
 - Fine-tuned Wav2Vec2-Large-960h model
