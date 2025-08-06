@@ -12,9 +12,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.10+-blue)
 ![Model](https://img.shields.io/badge/Model-Wav2Vec2-brightgreen)
 
-<a href="https://www.linkedin.com/in/creativepurus/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2&color=black" height="50"/>
-</a>
+[![LinkedIn: Connect with Me](https://img.shields.io/badge/Connect_on_LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2&color=black)](https://www.linkedin.com/in/creativepurus/)
 
 ---
 
