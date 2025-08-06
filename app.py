@@ -17,7 +17,7 @@ id2label = {
 
 # ------------------- Load Processor -------------------
 
-processor = Wav2Vec2Processor.from_pretrained("Model")
+processor = Wav2Vec2Processor.from_pretrained("creativepurus/accent-wav2vec2")
 
 # ------------------- Define Model -------------------
 
@@ -38,7 +38,7 @@ class Wav2Vec2Classifier(nn.Module):
 # ------------------- Load Weights -------------------
 
 model = Wav2Vec2Classifier(num_labels=2)
-state_dict = load_file("Model/checkpoint-276/model.safetensors", device="cpu")
+state_dict = load_file("model.safetensors", device="cpu")  # assuming in root dir
 model.load_state_dict(state_dict)
 model.eval()
 
