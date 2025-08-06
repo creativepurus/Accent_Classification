@@ -38,16 +38,26 @@ Below are various graphs and charts generated to evaluate and visualize the perf
 
 ---
 
-### 🔹 ROC Curve
-![ROC Curve](assets/ROC_curve.png)  
-*Receiver Operating Characteristic curve showing the model's performance across thresholds.*
+### 🖥️ Gradio Web App
 
----
+A sleek, dark-themed **Gradio interface** has been added to make accent classification interactive and user-friendly!
 
-### 🔹 Spider Chart (Radar Plot)
-![Spider Chart](assets/Spider_Chart.png)
-*Multi-metric visualization comparing performance across various evaluation criteria.*
+* 🎤 Supports both **microphone recording** and **file upload**.
+* 🧠 Uses the fine-tuned `Wav2Vec2` model for detecting **Canadian** or **British** English accents.
+* 🌌 Clean dark mode layout with **colorful buttons** for a smooth user experience.
+* ✅ Built with `gradio==5.38.2`.
 
+> 🚀 Simply run `app.py` to launch the app locally:
+>
+> ```bash
+> python app.py
+> ```
+
+### 🔹 Gradio interface Before Prediction
+![Gradio interface Before Prediction](assets/Gradio_1.png)
+
+### 🔹 Gradio interface After Prediction
+![Gradio interface After Prediction](assets/Gradio_2.png)
 ---
 
 ## 🚀 Features
