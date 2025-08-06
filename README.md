@@ -30,7 +30,7 @@
 
 ## 🤗 Try the **Live Demo** on 👉 [**Hugging Face Spaces**](https://huggingface.co/spaces/creativepurus/accent_classification)
 
-![Accent Classification Demo](assets/Hugging_Face_Demo.png)
+![Accent Classification Demo](assets/Accent_Classification_Demo.png)
 🧠 *Live ``Accent Classification`` App deployed on Hugging Face !!*
 
 ---
