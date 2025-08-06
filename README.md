@@ -28,6 +28,13 @@
 
 ---
 
+## 🤗 Try the **Live Demo** on 👉 [**Hugging Face Spaces**](https://huggingface.co/spaces/creativepurus/accent_classification)
+
+![Accent Classification Demo](assets/Hugging_Face_Demo.png)
+🧠 *Live ``Accent Classification`` App deployed on Hugging Face !!*
+
+---
+
 ## 📊 Model Performance Visualizations
 
 Below are various graphs and charts generated to evaluate and visualize the performance of the Wav2Vec2-based Accent Classifier:
