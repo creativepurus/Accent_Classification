@@ -1,16 +1,30 @@
 
 # 🎙️ Accent Classification using Wav2Vec2
 
-A Deep Learning project that uses HuggingFace's Wav2Vec2 model to classify English audio accents as **Canadian** 🇨🇦 or **British (England)** 🏴. Built with PyTorch, Transformers, and Librosa, this project achieves high accuracy on voice-based accent prediction.
+### A Deep Learning project that uses `HuggingFace's Wav2Vec2` model to classify English audio accents as **`Canadian`** 🇨🇦 or **`British (England)`** 🏴. 
+
+### Built with `PyTorch`, `Transformers`, and `Librosa`, this project achieves high accuracy on voice-based accent prediction.
+
+---
+
+![GitHub: Star the Repository](https://img.shields.io/github/stars/creativepurus)
+![GitHub forks](https://img.shields.io/github/forks/creativepurus/Accent_Classification?style=social)
+![Python Version](https://img.shields.io/badge/Python-3.10+-blue)
+![Model](https://img.shields.io/badge/Model-Wav2Vec2-brightgreen)
+
+[![LinkedIn: Connect with Me](https://img.shields.io/badge/Connect_on_LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2&color=black)](https://www.linkedin.com/in/creativepurus/)
 
 ---
 
 ## ✅ Results
 
-- **Accuracy**: 97.83%
-- **Precision**: 100.00%
-- **Recall**: 95.35%
-- **F1 Score**: 97.62%
+![🔥 Accuracy](https://img.shields.io/badge/🔥_Accuracy-97.83%25-2b9348?style=for-the-badge&logo=github)
+
+![🎯 Precision](https://img.shields.io/badge/🎯_Precision-100.00%25-0077b6?style=for-the-badge&logo=target)
+
+![🔁 Recall](https://img.shields.io/badge/🔁_Recall-95.35%25-ffb703?style=for-the-badge&logo=retropie)
+
+![📈 F1_Score](https://img.shields.io/badge/📈_F1--Score-97.62%25-8338ec?style=for-the-badge&logo=chartdotjs)
 
 ---
 
@@ -177,10 +191,10 @@ Made with ❤️ by [Anand Purushottam](https://github.com/creativepurus)
 
 [LinkedIn](https://www.linkedin.com/in/creativepurus/) | [GitHub](https://github.com/creativepurus)
 
-### Love My Work ? You can 👉🏻 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+### Love My Work ? You can 👉🏻 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepurus)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE.
+This project is licensed under the `GNU GENERAL PUBLIC LICENSE.`
