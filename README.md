@@ -140,13 +140,18 @@ Open `en_model.ipynb` and run the cells step-by-step.
 
 ```
 Accent_Classification/
-├── en_model.ipynb              # Main notebook
-├── requirements.txt            # Dependency list
-├── wav2vec2-accent-classifier/ # Saved model & processor
-├── model_predictions.csv       # Prediction output
-├── Graphs/                     # Evaluation plots
-├── data/                       # Audio + tsv files
-└── README.md
+├── .github/                      # GitHub workflows, actions, or templates
+├── assets/                      # Images or media assets for README or UI
+├── Data/                        # Audio + tsv files
+├── Graphs/                      # Evaluation plots
+├── Model/                       # Saved Model and processor files (auto-created after training)
+├── Accent_Detection_Model.ipynb # Main notebook
+├── app.py                       # Gradio-based UI Application
+├── Code_Explanation.md          # Detailed explanation of model and code
+├── LICENSE                      # Project license file
+├── README.md                    # Project overview and instructions
+├── requirements.txt             # Python dependencies
+└── .gitignore                   # Git ignore rules for GitHub
 ```
 
 ---
