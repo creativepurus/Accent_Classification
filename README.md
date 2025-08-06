@@ -13,7 +13,7 @@
 ![Model](https://img.shields.io/badge/Model-Wav2Vec2-brightgreen)
 
 <a href="https://www.linkedin.com/in/creativepurus/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2&color=black" height="35"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2&color=black" height="50"/>
 </a>
 
 ---
@@ -34,7 +34,6 @@
 
 Below are various graphs and charts generated to evaluate and visualize the performance of the Wav2Vec2-based Accent Classifier:
 
----
 
 ### 🔹 Horizontal Bar Chart
 ![Horizontal Bar Chart](assets/horizontal_bar_chart.png)
